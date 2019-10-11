@@ -1,4 +1,4 @@
 <?php
-	echo "Rizqi Adiguna<br>";
-	echo "10116319";
+	echo "NIM  : 10116319<br>";
+	echo "Nama :Rizqi Adiguna";
 ?>
